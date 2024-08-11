@@ -1,0 +1,15 @@
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\bin\Debug\net8.0\SubMission2.exe
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\bin\Debug\net8.0\SubMission2.deps.json
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\bin\Debug\net8.0\SubMission2.runtimeconfig.json
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\bin\Debug\net8.0\SubMission2.dll
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\bin\Debug\net8.0\SubMission2.pdb
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\SubMission2.GeneratedMSBuildEditorConfig.editorconfig
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\SubMission2.AssemblyInfoInputs.cache
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\SubMission2.AssemblyInfo.cs
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\SubMission2.csproj.CoreCompileInputs.cache
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\SubMission2.sourcelink.json
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\SubMission2.dll
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\refint\SubMission2.dll
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\SubMission2.pdb
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\SubMission2.genruntimeconfig.cache
+K:\Work\CodeChallenges-1\2024_programming-challenges-1\submissions\SubMission2\obj\Debug\net8.0\ref\SubMission2.dll
